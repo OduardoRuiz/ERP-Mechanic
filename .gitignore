@@ -1,0 +1,23 @@
+# Arquivos de ambiente
+/src/.env
+/src/.env.backup
+
+# Dependências
+/src/vendor/
+/src/node_modules/
+
+# Logs e cache
+/src/storage/logs/*
+/src/storage/framework/cache/*
+/src/storage/framework/views/*
+/src/bootstrap/cache/*
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
